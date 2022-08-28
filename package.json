@@ -1,0 +1,16 @@
+{
+  "name": "gre-verb",
+  "version": "1.0.0",
+  "description": "A simple application to quiz you on your GRE Verbal.",
+  "main": "app.js",
+  "author": "Atul V Chandran, Datta Adithya G V",
+  "license": "MIT",
+  "private": null,
+  "scripts": {
+    "backend": "nodemon ./backend/app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  }
+}
