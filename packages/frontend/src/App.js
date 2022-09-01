@@ -27,6 +27,9 @@ export default function App() {
             <div className='txt-02 marmin-02'>
               {post.example}
             </div>
+            <form action="http://localhost:3000" method="GET">
+              <button className='button'>Reload</button>
+            </form>
           </div>
         </container>
       </body>
