@@ -11,7 +11,7 @@ import json
 # the example sentence
 def retrieval():
     # Reading from the text file
-    with open("./adi_cards.txt") as f:
+    with open("./orange_cards.txt") as f:
         lines = f.readlines()
 
     words: list = []
@@ -44,7 +44,7 @@ def create_json():
         }
 
     # JSON Dumping into the res file.
-    with open('res.json', 'w') as outfile:
+    with open('orange.json', 'w') as outfile:
         json.dump(res, outfile, indent=4)
 
 # Driver code for triggering the functions

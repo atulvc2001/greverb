@@ -1,0 +1,502 @@
+{
+    "0": {
+        "word": "Cynosure",
+        "definition": "Object of general attention",
+        "example": "Adithya isn't always the cynosure of the hour, actually wait, he never is"
+    },
+    "1": {
+        "word": "Cherubic",
+        "definition": "Angelic",
+        "example": "She looked cherubic in that dress, not to mention that underwear"
+    },
+    "2": {
+        "word": "Bungle",
+        "definition": "To commit blunder",
+        "example": "He really managed to bungle up this task too? This one was easy!\n"
+    },
+    "3": {
+        "word": "Militate",
+        "definition": "To work against, undermine",
+        "example": "His bungling up of tasks is really starting to make me wonder whether he's militating"
+    },
+    "4": {
+        "word": "Morbid",
+        "definition": "Affected by disease, gruesome, unhealthy state",
+        "example": "He's morbid in appearance, but his bungles are what really start to irk me"
+    },
+    "5": {
+        "word": "Fraught",
+        "definition": "Causing emotional distress",
+        "example": "Just a look at him gets me fraught with sadness in our shortlisting criteria"
+    },
+    "6": {
+        "word": "Pernicious",
+        "definition": "Destructive",
+        "example": "He's a living, walking, pernicious man who could bring the entire institute down"
+    },
+    "7": {
+        "word": "Rancor",
+        "definition": "Hatred",
+        "example": "Trust me Jim, there's not enough rancor in me to tell that man to pull his shit together"
+    },
+    "8": {
+        "word": "Unwitting",
+        "definition": "Unknowing",
+        "example": "Jim, listen, we can get rid of him by using this sledgehammer, you can be my unwitting accomplice in this murder, and I'll have only 20 years of jail time"
+    },
+    "9": {
+        "word": "Decrepitude",
+        "definition": "State of collapse caused by illness or oldage",
+        "example": "Listen Jim, that indolent man is going to be the reason for this institute's downfall, not decrepitude"
+    },
+    "10": {
+        "word": "Uxorious",
+        "definition": "Devoted to his wife",
+        "example": "Listen Jim, I know that you're an uxorious man, but getting rid of that gargantuan disappointment is going to be a close second to your best experiences in life"
+    },
+    "11": {
+        "word": "Consecrate",
+        "definition": "To make sacred",
+        "example": "We could consecrate this entire place just by defenestrating him"
+    },
+    "12": {
+        "word": "Debilitate",
+        "definition": "Enfeeble",
+        "example": "Listen, I'll add a bit of the meds into his coffee, we'll debilitate him, and then we put him in the industry shredder"
+    },
+    "13": {
+        "word": "Quotidian",
+        "definition": "Usual, customary",
+        "example": "Everyday, we have our quotidian of work, and then there's this guy who just sits there and lets the rest of the industry go to hell"
+    },
+    "14": {
+        "word": "Raucous",
+        "definition": "Harsh, strigent; grating",
+        "example": "I can do raucous work, easy work, boring work, and even fastidious work, but working with that dolt? Not a chance"
+    },
+    "15": {
+        "word": "Travail",
+        "definition": "Painfully difficult; toil",
+        "example": "I travail everyday, just to get some hard-earned cash to go back to my family, and then there's that sloth"
+    },
+    "16": {
+        "word": "Unfeigned",
+        "definition": "Not feigned",
+        "example": "The worst part is that his idiocy is unfeigned, like he doesn't even try!\n"
+    },
+    "17": {
+        "word": "Corpulent",
+        "definition": "Fat or obese",
+        "example": "That corpulent eunuch, I doubt he's seen a gym in his life"
+    },
+    "18": {
+        "word": "Celerity",
+        "definition": "Swiftness or speed",
+        "example": "I work in progressive celerity, increasing my speed by the hour"
+    },
+    "19": {
+        "word": "Revile",
+        "definition": "To assail with contemptuous or opprobrious language",
+        "example": "What? I'm reviling the guy because he's fat? No, I'm reviling his incompetence! He's clearly challenged"
+    },
+    "20": {
+        "word": "Candor",
+        "definition": "Frankness; open honesty or sincerity",
+        "example": "Alright Jim, I'll be all candor with you, why'd we pick that guy at all? Just look at that heap of flesh"
+    },
+    "21": {
+        "word": "Ungainly",
+        "definition": "Not graceful",
+        "example": "I'm ungainly with the attitude? Hell, we're not making any gains at all with that guy over there, screw ungainly"
+    },
+    "22": {
+        "word": "Vaunted",
+        "definition": "Praised boastfully; excessively flattering",
+        "example": "Why's the boss always vaunting that dumb guy anyway, he barely does any work at all!\n"
+    },
+    "23": {
+        "word": "Ennui",
+        "definition": "Lack of interest",
+        "example": "I'm starting to feel the ennui hit me, you know"
+    },
+    "24": {
+        "word": "Maudlin",
+        "definition": "Tearfully sentimental",
+        "example": "Hey, why are you getting all maudlin because of my abuses at that guy? They're not even directed at you!\n"
+    },
+    "25": {
+        "word": "Oblivion",
+        "definition": "State of being forgotten",
+        "example": "Wait, what? That guy is your brother, and he has the down syndrome? Was I in oblivion all this time?\n"
+    },
+    "26": {
+        "word": "Euphemism",
+        "definition": "The substitution of a mild, indirect or vague expression for one thought to be offensive",
+        "example": "The waiters at the restaurant were all given the role of executive attending staff"
+    },
+    "27": {
+        "word": "Brusque",
+        "definition": "Rough",
+        "example": "The man walked into the bar in a brusque manner, nearly tripping one of the staff and shattering a dozen glasses"
+    },
+    "28": {
+        "word": "Malinger",
+        "definition": "To pretend illness",
+        "example": "Amy Santiago tried to malinger to avoid going to the office, but Holt thwarted her plan by offering her a ride to the doctor"
+    },
+    "29": {
+        "word": "Acrimony",
+        "definition": "Sharpness, harshness, or bitterness of nature, speech",
+        "example": "Adithya really had no idea how to break the news to them, it was an acrimonious talk that he offered that people viewed with bitterness"
+    },
+    "30": {
+        "word": "Piebald",
+        "definition": "Having patches of black and white or of other colors; parti-colored",
+        "example": "The litter of puppies was a piebald group, and none of them resembled each other"
+    },
+    "31": {
+        "word": "Pragmatic",
+        "definition": "Relating to a practical point of view or practical considerations",
+        "example": "Institutes do it wrong all the time, a pragmatic approach to problem solving teaches children a lot more in a lot less time"
+    },
+    "32": {
+        "word": "Redoubtable",
+        "definition": "Formidable",
+        "example": "The opponent is going to be redoubtable this time, take care"
+    },
+    "33": {
+        "word": "Travesty",
+        "definition": "A grotesque or debased likeness or imitation",
+        "example": "In travesty, the boss fired the man who did his job well"
+    },
+    "34": {
+        "word": "Veracity",
+        "definition": "Habitual observance of truth in speech",
+        "example": "Victoria was great at determining the veracity of a speech and could even tell what was faked in it"
+    },
+    "35": {
+        "word": "Mercurial",
+        "definition": "Volatile",
+        "example": "Adithya was a mercurial man when upset and could not think straight at all"
+    },
+    "36": {
+        "word": "Dour",
+        "definition": "Sullen or gloomy",
+        "example": "Shanks was a dour man after Ploo left him for PROD"
+    },
+    "37": {
+        "word": "Persnickety",
+        "definition": "Snobbish or having the aloof attitude of a snob",
+        "example": "Every line was picked apart by the persnickety wife"
+    },
+    "38": {
+        "word": "Tergiversate",
+        "definition": "To change repeatedly one's attitude or opinions with respect to a cause",
+        "example": "Krishnaraj and Adithya are adept at tergiversating their state when one argument paves the way to victory"
+    },
+    "39": {
+        "word": "Preclude",
+        "definition": "To prevent the existence; make impossible",
+        "example": "Let's preclude this child, it's a girl afterall"
+    },
+    "40": {
+        "word": "Vociferous",
+        "definition": "Clamorous",
+        "example": "I told you we should've gotten rid of this vociferous child a long time ago"
+    },
+    "41": {
+        "word": "Mores",
+        "definition": "Folkways of central importance accepted without question",
+        "example": "So, you're telling me this ritual is a part of the mores of Hinduism?\n"
+    },
+    "42": {
+        "word": "Compunction",
+        "definition": "Contrition",
+        "example": "When the police officers questioned the family about their child's death, they showed no compunction whatsoever"
+    },
+    "43": {
+        "word": "Hegemony",
+        "definition": "Leadership or predominant influence exercised by one nation over others",
+        "example": "China attempted to be a hegemony over India, but we don't surrender that quick"
+    },
+    "44": {
+        "word": "Toady",
+        "definition": "An obsequious flatterer; sycophant",
+        "example": "You know it Jim, I'm going to be called since I'm the toady who sucks up to the boss afterall"
+    },
+    "45": {
+        "word": "Expurgate",
+        "definition": "To amend by removing words, passages that are deemed offensive",
+        "example": "If I don't expurgate this text document before I push it to the repository, I might be in a bit of a pickle"
+    },
+    "46": {
+        "word": "Calumny",
+        "definition": "A false and malicious statement designed to injure the reputation of someone or something",
+        "example": "The reporter swore that this talk would be confidential but the next day, he posted a calumny on the author of the book"
+    },
+    "47": {
+        "word": "Doff",
+        "definition": "Get rid of",
+        "example": "I'm going to doff that dolt out of my company premises"
+    },
+    "48": {
+        "word": "Torrid",
+        "definition": "Subject to parching or burning heat",
+        "example": "The firefighters barely fought off against the torrid fire from the 4th floor"
+    },
+    "49": {
+        "word": "Wizened",
+        "definition": "Shrivelled or wrinkled with age",
+        "example": "The wizened man did not like his appearance at all, he was far too young to end up this way"
+    },
+    "50": {
+        "word": "Droll",
+        "definition": "Curious, or unusual in the way that provokes dry amusement",
+        "example": "K-Pop was initially a droll in India, now they have adolescent girls completely hooked to their music"
+    },
+    "51": {
+        "word": "Subpoena",
+        "definition": "A writ ordering a person to attend a court",
+        "example": "John was given a subpoena to address his two divorces"
+    },
+    "52": {
+        "word": "Cloture",
+        "definition": "A procedure for ending a debate and taking a vote",
+        "example": "Sometimes I just wished that these both invoked a cloture and called it a day"
+    },
+    "53": {
+        "word": "Hermetic",
+        "definition": "Made airtight by fusion or sealing; not affected by outward influence or power",
+        "example": "While known for his grade, he was renowned for his hermetic lifestyle more"
+    },
+    "54": {
+        "word": "Lambaste",
+        "definition": "To reprimand or berate harshly; criticize",
+        "example": "Anuraag is lambasted for his inattentiveness when discussing important matters"
+    },
+    "55": {
+        "word": "Polemic",
+        "definition": "A strong verbal or written attack on someone or something; art of disputation",
+        "example": "Adithya made a polemic on Sai Pranay for his lack of concern on deadlines for the club"
+    },
+    "56": {
+        "word": "Prudish",
+        "definition": "Excessively proper or modest in speed, conduct, dress",
+        "example": "At the beginning of the Wandering Inn, Lyonette was a prudish girl, who cared nothing for commoners"
+    },
+    "57": {
+        "word": "Indolence",
+        "definition": "Slothful",
+        "example": "The fact of the matter is that Adithya is an indolence, he barely does any work unless he requested to!\n"
+    },
+    "58": {
+        "word": "Quack",
+        "definition": "A fradulent or ignorant pretender to medical skill",
+        "example": "It is widely agreed that most people who pose as chiropractors are actually quacks"
+    },
+    "59": {
+        "word": "Acolyte",
+        "definition": "A person assisting the celebrant in a religious service or procession",
+        "example": "One can draw a parellel between hindu swamis and their bhakts with cult leaders and their acolytes"
+    },
+    "60": {
+        "word": "Limpid",
+        "definition": "Clear, trasparent or pellucid",
+        "example": "Sometimes going around the bush, Abhiram is a man with limpid interactions with seldom any ulterior motive"
+    },
+    "61": {
+        "word": "Paragon",
+        "definition": "A perfect model",
+        "example": "Grsha was a paragon, who excelled at everything she attempted to do"
+    },
+    "62": {
+        "word": "Cosset",
+        "definition": "Care for and protect in an overindulgent way",
+        "example": "Anuraag cosseted his valheim creations far too much, which made it only easier to kid around with him by breaking them"
+    },
+    "63": {
+        "word": "Expiate",
+        "definition": "Atone for (guilt and sin)",
+        "example": "Sometimes one does wonder on whether the villains in the stories expiate for the suffering they have caused"
+    },
+    "64": {
+        "word": "Fusillade",
+        "definition": "A series of shots fired or missles thrown all at the same time or in quick succession",
+        "example": "Whenever Krishnaraj attempts to make a poor joke, he receives a fusillade from the entire gang"
+    },
+    "65": {
+        "word": "Lachrymose",
+        "definition": "Mournful",
+        "example": "Adithya was lachrymose when he realized that his efforts did not warrant an A grade in WAS"
+    },
+    "66": {
+        "word": "Phalanx",
+        "definition": "A body of troops standing in formation",
+        "example": "I saw a phalanx at the gates of the Indo-Pakistani border"
+    },
+    "67": {
+        "word": "Umbrage",
+        "definition": "Offense; annoyance; displeasure",
+        "example": "Aravinth was a man who looked at the corporations and responded to it with an umbrage"
+    },
+    "68": {
+        "word": "Vitiate",
+        "definition": "To impair the quality of; make faulty; spoil",
+        "example": "The drink was vitiated when you added the curd into it, what were you thinking?!\n"
+    },
+    "69": {
+        "word": "Idyll",
+        "definition": "An extremely happy, peaceful, or picturesque episode or scene",
+        "example": "Adithya would be joyous, whenever he thought of the murgi idyll in Canada"
+    },
+    "70": {
+        "word": "Ersatz",
+        "definition": "used as a substitute, typically an inferior one, for something else",
+        "example": "Developing an ersatz software would be time consuming, and wasteful for corporate time"
+    },
+    "71": {
+        "word": "Gargantuan",
+        "definition": "Colossal",
+        "example": "Adithya sometimes made gargantuan mistakes by saying too much"
+    },
+    "72": {
+        "word": "Panache",
+        "definition": "Flamboyant confidence or style or manner",
+        "example": "Dressing up in bright colors is a panache trait that I'd much rather not have"
+    },
+    "73": {
+        "word": "Inexorable",
+        "definition": "Not to be persuaded, moved or affected by prayers or entreaties",
+        "example": "Sometimes, it's best to surrender your statement, no one likes an inexorable fool who doesn't take defeats well"
+    },
+    "74": {
+        "word": "Narcissism",
+        "definition": "Excessive self-love",
+        "example": "Adithya is a narcissistic fool, he rarely cares for the people around him and only wonders about how he'd look to the observer's eye"
+    },
+    "75": {
+        "word": "Cryptic",
+        "definition": "Puzzling",
+        "example": "While not a person that generally challenges puzzles, Adithya had a love for creating cryptic statements for the murgi clan"
+    },
+    "76": {
+        "word": "Ossify",
+        "definition": "To convert into or cause to harden like bone to become rigid or inflexible in habits, attitudes, opinions",
+        "example": "Adithya's insecurities only began to ossify once he began losing friends again"
+    },
+    "77": {
+        "word": "Incongruous",
+        "definition": "Inappropriate",
+        "example": "Anuraag's jokes about death at a funeral were largely incongruous"
+    },
+    "78": {
+        "word": "Baleful",
+        "definition": "Full of menacing or malign influences",
+        "example": "Chad looked at Pogson in a baleful manner before a bowl of cereal fell on his head"
+    },
+    "79": {
+        "word": "Hidebound",
+        "definition": "Narrow and rigid in opinion",
+        "example": "Some people are exhausting to talk to because they're as hidebound as you can get, and don't bother wanting to come out of their safe circle!\n"
+    },
+    "80": {
+        "word": "Timorous",
+        "definition": "Full of fear; fearful",
+        "example": "Three out of four people were timorous when given the chance to venture into the woods at night"
+    },
+    "81": {
+        "word": "Obstreperous",
+        "definition": "Resisting control or restraint in a difficult manner",
+        "example": "The officers tried to manacle the drunkard, but he was being obstreperous"
+    },
+    "82": {
+        "word": "Poignant",
+        "definition": "Keenly distressing to the feelings",
+        "example": "The status of the community was deteriorating, and was a poignant affair to Adithya"
+    },
+    "83": {
+        "word": "Thwart",
+        "definition": "To frustrate or baffle",
+        "example": "Chad almost had it, but Pogson managed to thwart his mission effortlessly"
+    },
+    "84": {
+        "word": "Venal",
+        "definition": "Willing to sell one's influence; open to bribery",
+        "example": "The officer looked strict, but he was a venal man so I slipped him some bills"
+    },
+    "85": {
+        "word": "Fluster",
+        "definition": "To put into a state of agitated confusion",
+        "example": "He was flustered when his intentions were exposed to the committee"
+    },
+    "86": {
+        "word": "Specious",
+        "definition": "Pleasing to the eye but deceptive",
+        "example": "Immortals are specious in nature, they are narcissistic and only care for themselves"
+    },
+    "87": {
+        "word": "Peerless",
+        "definition": "Has no peer",
+        "example": "The murgi clan is a peerless organization, the likes that the world has never seen"
+    },
+    "88": {
+        "word": "Pejorative",
+        "definition": "Having a disparaging, derogatory, or belitting effect or force",
+        "example": "Mommy? (pejorative)\n"
+    },
+    "89": {
+        "word": "Fractious",
+        "definition": "Irritable",
+        "example": "Adithya was a fractious man when it came to chaos in the organization"
+    },
+    "90": {
+        "word": "Milieu",
+        "definition": "Surroundings, especially of a social or cultural nature",
+        "example": "Madhavan would be exposed to a new milieu once he heads out for college"
+    },
+    "91": {
+        "word": "Purloin",
+        "definition": "Steal",
+        "example": "Hey! That man is trying to purloin my wallet!\n"
+    },
+    "92": {
+        "word": "Astute",
+        "definition": "Keen penetration or discernment",
+        "example": "There's astute and there's asinine, and then there's you"
+    },
+    "93": {
+        "word": "Pyromania",
+        "definition": "A compulsion to set things on fire",
+        "example": "The pyromaniac teenagers got what they deserved, manacled"
+    },
+    "94": {
+        "word": "Staid",
+        "definition": "Of settled or sedate character",
+        "example": "In a DJ party, the last thing you want to see is a staid gentlemen, that's the worst type there is"
+    },
+    "95": {
+        "word": "Inimical",
+        "definition": "Adverse in tendency or effect",
+        "example": "The two parties were always inimical, trying to one up each other in every instance of life"
+    },
+    "96": {
+        "word": "Protean",
+        "definition": "Extremely variable",
+        "example": "I am really protean, what do I choose? A masters or a job?\n"
+    },
+    "97": {
+        "word": "Mendacious",
+        "definition": "Telling lies; dishonest",
+        "example": "Adithya is rarely mendacious, he doesn't know how to tell a lie and get away with it afterall"
+    },
+    "98": {
+        "word": "Venial",
+        "definition": "Able to be forgiven or pardoned",
+        "example": "Sometimes, people make bad decisions"
+    },
+    "99": {
+        "word": "Insentient",
+        "definition": "Not sentient",
+        "example": "No matter how much scientists try, all they've managed to come up with are insentient things"
+    }
+}
