@@ -8,7 +8,8 @@
   ],
   "scripts": {
     "app": "yarn workspace @greverb/frontend start",
-    "server": "yarn workspace @greverb/backend start"
+    "server": "yarn workspace @greverb/backend start",
+    "server-dev": "yarn workspace @greverb/backend dev"
   },
   "engines": {
     "node": "18.3.0"
