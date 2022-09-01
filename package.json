@@ -1,16 +1,19 @@
 {
-  "name": "gre-verb",
+  "name": "greverb",
   "version": "1.0.0",
-  "description": "A simple application to quiz you on your GRE Verbal.",
-  "main": "app.js",
-  "author": "Atul V Chandran, Datta Adithya G V",
   "license": "MIT",
-  "private": null,
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
   "scripts": {
-    "backend": "nodemon ./backend/app.js"
+    "app": "yarn workspace @greverb/frontend start",
+    "server": "yarn workspace @greverb/backend start"
+  },
+  "engines": {
+    "node": "18.3.0"
   },
   "dependencies": {
-    "express": "^4.18.1",
-    "nodemon": "^2.0.19"
+    "concurrently": "^7.3.0"
   }
 }
