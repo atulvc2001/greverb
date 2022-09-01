@@ -19,14 +19,6 @@ function App() {
         </container>
       </body>
     </div>
-    // <div className="App">
-    //   <div className="App-title">
-    //     <h2>WORDS</h2>
-    //   </div>
-    //   <div>
-    //     <p className='App-meanings'>Meanings</p>
-    //   </div>
-    // </div>
   );
 }
 
