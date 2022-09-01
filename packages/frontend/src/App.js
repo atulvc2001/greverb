@@ -1,19 +1,31 @@
 import './App.css';
 import React from 'react';
+import axios from "axios";
 
-function App() {
+const baseURL = "http://localhost:8000/api/v1/cards/adi";
+
+export default function App() {
+  const [post, setPost] = React.useState(null);
+
+  React.useEffect(() => {
+    axios.get(baseURL).then((response) => {
+      setPost(response.data);
+    });
+  }, []);
+
+  if (!post) return null;
 
   return (
     <div className='bg-01 App'>
       <body>
         <container>
           <div className='mar-01'>
-            <h1 className='title-01'>My First Heading</h1>
+            <h1 className='title-01'>{post.word}</h1>
             <div className='txt-01 marmin-01'>
-              <span>My first paragraph.</span>
+              <span>{post.definition}</span>
             </div>
             <div className='txt-02 marmin-02'>
-              Loyuiffcgughkl,k;pkhihfouytboiuhiok
+              {post.example}
             </div>
           </div>
         </container>
@@ -22,4 +34,3 @@ function App() {
   );
 }
 
-export default App;
