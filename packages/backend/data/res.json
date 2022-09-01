@@ -1,0 +1,702 @@
+{
+    "0": {
+        "word": "Jingoism",
+        "definition": "Needless motivation for one's country or organization, as a result of bombastic self-pride",
+        "example": "Santhosh is a jingoistic man that believes that he's going to hit diamond in a week"
+    },
+    "1": {
+        "word": "Despondency",
+        "definition": "A state of series of misfortune that heavily impact's one circumstance",
+        "example": "Sometimes, we become despondent after looking at placements, just to turn around and queue up for another valo comp"
+    },
+    "2": {
+        "word": "Exhilaration",
+        "definition": "An exciting and joyful moment that usually sprout a great deal of fun",
+        "example": "Speaking with strangers is exhilarating sometimes since you realise that this is the person you've always been looking for, like look at those fresh organs"
+    },
+    "3": {
+        "word": "Caricature",
+        "definition": "It is a way of describing something in a exaggerated manner often in a ludicrous way",
+        "example": "Detective, this is disturbing, the suspect drew a caricature with the blood of the victim, how demonic"
+    },
+    "4": {
+        "word": "Roseate",
+        "definition": "The state of being extremely optimistic; fully buoyant",
+        "example": "Listen, it doesn't hurt to think a little negatively from time to time, being all roseate and believing in god while a person is being stabbed to death isn't a very great idea in my opinion"
+    },
+    "5": {
+        "word": "Hubris",
+        "definition": "Needless pride or conceit for self-damnation",
+        "example": "In the olden days, kings wished to die in hubris in a way against their kingdom, however most died sitting in their own throne poisoned by the minister, this case doesn't seem like a replica of the sort"
+    },
+    "6": {
+        "word": "Premonition",
+        "definition": "Intense forewarning",
+        "example": "I did have a premonition about the murder taking place on the 61st street but I would've never guessed that it was actually going to happen"
+    },
+    "7": {
+        "word": "Petulant",
+        "definition": "Stubborn on silly matters",
+        "example": "Some of the people I know are extremely petulant and never back down in an argument, I have little praise for their method of debate though"
+    },
+    "8": {
+        "word": "Recondite",
+        "definition": "Obscure or hidden",
+        "example": "This murder does have quite a few recondite elements, how did the murderer even get into the house at all?\n"
+    },
+    "9": {
+        "word": "Sedulous",
+        "definition": "Meticulous and painstaking",
+        "example": "The owner was one that was sedulous in her work, keeping track of accounts and business deals in well planned out ledgers"
+    },
+    "10": {
+        "word": "Diffidence",
+        "definition": "Losing an opportunity because they don't have confidence in their ability",
+        "example": "Why did the murderer not take down anyone else in the family? Was he just diffident on getting the entire job done? I suppose not"
+    },
+    "11": {
+        "word": "Exacerbate",
+        "definition": "When a condition is further worsened by negligible governance",
+        "example": "The escape route was very well planned out too, the owners really did exacerbate their situation by not cleaning up the backyard"
+    },
+    "12": {
+        "word": "Stolid",
+        "definition": "Less emotional than others",
+        "example": "Did you hear what the detective said? It really does seem like he's a stolid man considering that he didn't rise to the bait of the murderer and took a squad with him"
+    },
+    "13": {
+        "word": "Innocuous",
+        "definition": "Harmless and naturally good for health",
+        "example": "Detective, did you really believe that I'd be an innocuous man? Of course I wouldn't be surrendering myself to you, that makes no sense!\n"
+    },
+    "14": {
+        "word": "Inchoate",
+        "definition": "A state of partial development which is insufficient",
+        "example": "The preparation for my future is inchoate, and practically useless, there's not much else to say"
+    },
+    "15": {
+        "word": "Capricious",
+        "definition": "Sudden, impulsive and behaving in a crazy way",
+        "example": "The actions that man took for his family's safety was capricious, but luckily no one was harmed"
+    },
+    "16": {
+        "word": "Lionize",
+        "definition": "To treat someone like a celebrity",
+        "example": "One really wonders whether influencers need to be lionized all that much considering the sub standard effort they put into their content"
+    },
+    "17": {
+        "word": "Gainsay",
+        "definition": "Deny or contradict",
+        "example": "No, I will not gainsay any of these people, their worries are valid and need to be heard!\n"
+    },
+    "18": {
+        "word": "Conspicuous",
+        "definition": "Noticeable",
+        "example": "The changes that the company is making towards their increasing demand is conspicuous to say the least"
+    },
+    "19": {
+        "word": "Ephemeral",
+        "definition": "Something that stays for a short duration",
+        "example": "Don't worry about it, being shamed in class is definitely going to be an ephemeral experience for our child, he's definitely not going to be traumatized"
+    },
+    "20": {
+        "word": "Ramification",
+        "definition": "The consequences",
+        "example": "Are you for real? Why did you whip out your cock in the middle of the show, the ramifications for this are going to be intense"
+    },
+    "21": {
+        "word": "Jeremiad",
+        "definition": "A prolonged resentment over a thing usually seen as a complaint",
+        "example": "Are you still passing jeremiads on the ice cream truck guy? He only molested you once!\n"
+    },
+    "22": {
+        "word": "Decadent",
+        "definition": "Having no control over indulgence",
+        "example": "Listen, I'm not decadent, I'm just really close to Diamond 1 in the game, queue up again, Jim!\n"
+    },
+    "23": {
+        "word": "Incendiary",
+        "definition": "Tending to cause fire, or very intense",
+        "example": "The conversation became an incendiary debate on who deserves the prize"
+    },
+    "24": {
+        "word": "Countermand",
+        "definition": "To recall an order, or revoke a license",
+        "example": "Wait, you're actually going to countermand me because I shot that black man? That's absurd!\n"
+    },
+    "25": {
+        "word": "Inexorable",
+        "definition": "Impossible to prevent something; inevitable",
+        "example": "Yup, they can't stop me, me breaking out of jail is inexorable"
+    },
+    "26": {
+        "word": "Penury",
+        "definition": "Destitution, and homelessness",
+        "example": "Despite breaking out of jail, Harlot spent a good year in penury before he got rid of his diffidence and picked up a store job"
+    },
+    "27": {
+        "word": "Volubility",
+        "definition": "The quality of talking fluently",
+        "example": "Volubility is well received in today's world, stammering and overspeaking is viewed in disgrace though"
+    },
+    "28": {
+        "word": "Entrenched",
+        "definition": "Anything is firmly estalished, unlikely to change",
+        "example": "Huh, I always figured that the government would be entrenched and nothing would change, perhaps now's the time for change"
+    },
+    "29": {
+        "word": "Hoary",
+        "definition": "Process of aging and becoming greyish white",
+        "example": "That hoary man wished to prey on little children, good that the volubile judge didn't let him go that easily"
+    },
+    "30": {
+        "word": "Craven",
+        "definition": "Lacking courage",
+        "example": "The craven student was diffident about his inchoate progress to give a speech on it"
+    },
+    "31": {
+        "word": "Intrepid",
+        "definition": "Being courageous",
+        "example": "The ones that become generals in the army are intrepid ones, ones that can face a gun to their temple and not bat an eye"
+    },
+    "32": {
+        "word": "Lugubrious",
+        "definition": "Sad, and mournful",
+        "example": "Listening to Joji is a lugubrious experience but I don't think I'd trade it for anything else"
+    },
+    "33": {
+        "word": "Vivacious",
+        "definition": "Characterized by joy",
+        "example": "The officer was vivacious for some odd reason, his task was only paperwork"
+    },
+    "34": {
+        "word": "Extirpation",
+        "definition": "Act of destroying at the root",
+        "example": "Some believe that killing baby hilter would have extirpated the world war"
+    },
+    "35": {
+        "word": "Foible",
+        "definition": "Having a minor weakness in one's character",
+        "example": "If there's something that makes Arthur foible, it would have to be his family"
+    },
+    "36": {
+        "word": "Protean",
+        "definition": "Sudden changes",
+        "example": "Due to covid, the economy was protean as all hell, no one knew what was to happen"
+    },
+    "37": {
+        "word": "Slatternly",
+        "definition": "Being untidy or unkempt",
+        "example": "I lead life in a slattern fashion"
+    },
+    "38": {
+        "word": "Nonplussed",
+        "definition": "Confused",
+        "example": "After listening to a talk about alcohol, Fathima was nonplussed about a lot of things, starting with, how did she even end up here?\n"
+    },
+    "39": {
+        "word": "Diabolical",
+        "definition": "Devil-like",
+        "example": "The shots that some pros hit are diabolical, that aim is insane!\n"
+    },
+    "40": {
+        "word": "Trite",
+        "definition": "Being commonplace; having no original value",
+        "example": "A lot of the people that feel like they're a part of the cool kids club are generally as trite as one can get, with nothing defining them as one of a kind"
+    },
+    "41": {
+        "word": "Compunction",
+        "definition": "Uneasiness caused by guilt or remorse",
+        "example": "Sometimes these people also writhe in compunction since they lie to those around them about how exciting their day has been"
+    },
+    "42": {
+        "word": "Despotic",
+        "definition": "A leader or government with illimitable power they can exercise to any extent",
+        "example": "While these trite humans believe that they are despotic, it is ironical that they hold little power in influencing those around them significantly"
+    },
+    "43": {
+        "word": "Abstemious",
+        "definition": "Saying no to food or alcohol; restraining indulgence",
+        "example": "While most ordinary humans would have some form of restraint, these abstemious reprobates care too little about their cash and give in to their desires without hesitation"
+    },
+    "44": {
+        "word": "Tumultuous",
+        "definition": "Disordered and widely agitating",
+        "example": "A tumultuous group generally brings school bullies down to their knees"
+    },
+    "45": {
+        "word": "Listless",
+        "definition": "Lacking interest or feeling tired",
+        "example": "A lot of spendthrifts turn listless when they look at their bank statement, I wonder if they've ever considered a parsimonous lifestyle"
+    },
+    "46": {
+        "word": "Debauchery",
+        "definition": "Extreme indulgence in bodily pleasures",
+        "example": "While the bible talks about the evils of Rome against their god, the debauchery of priests who molest children is overlooked"
+    },
+    "47": {
+        "word": "Platitude",
+        "definition": "Quality of being flat, dull, monotonous and boring",
+        "example": "Priests are generally platitude until you start talking about children"
+    },
+    "48": {
+        "word": "Harbringer",
+        "definition": "Forerunner; one that initiates a major change",
+        "example": "I'm waiting for the harbringer of child protective services, these priests are starting to get out of hand"
+    },
+    "49": {
+        "word": "Hiatus",
+        "definition": "A temporary break or interval",
+        "example": "The last I remember, Haikyuu went on hiatus and returned back six years later with garbage animation quality"
+    },
+    "50": {
+        "word": "Impetuous",
+        "definition": "Something is done without a forethought; haste; rash",
+        "example": "That impetuous priest let the child go without telling him to stay silent and now our church is under fire!\n"
+    },
+    "51": {
+        "word": "Ebullience",
+        "definition": "Showing lively or enthusiastic expression of thoughts",
+        "example": "Why does that priest look ebullient all of sudden? Wait, why is that child crying?\n"
+    },
+    "52": {
+        "word": "Highfalutin",
+        "definition": "Being very pretentious and fanciful",
+        "example": "The highfalutin girls at college wear exotic dresses, that would be cool normally but most of them look like whores"
+    },
+    "53": {
+        "word": "Beautitude",
+        "definition": "The state of supreme happiness",
+        "example": "The priest said that he was expressing his beautitude to the child in that room, somehow that seems fishy"
+    },
+    "54": {
+        "word": "Beholden",
+        "definition": "Indebted and thankful",
+        "example": "A new gaming laptop generally has me beholden to my parents, there's not much else I desire in life"
+    },
+    "55": {
+        "word": "Clandestine",
+        "definition": "Acting in secrecy, duplicity",
+        "example": "One fine clandestine evening, Shishimaru snuck cocaine into Ninja Hattori's food"
+    },
+    "56": {
+        "word": "Vicarious",
+        "definition": "Experienced or realized through sympathetic participation",
+        "example": "Some people say that watching others skydive is a vicarious thrill when you're afraid of heights, but I could say the same for netorare"
+    },
+    "57": {
+        "word": "Indelible",
+        "definition": "Incapable of being erased",
+        "example": "Vietnamese veterans generally have an indelible experience of the war, for example, a disco light caused my grandfather to have a stroke"
+    },
+    "58": {
+        "word": "Fortitude",
+        "definition": "Strength of mind",
+        "example": "Mental fortitude is hard to come by in people with a pornographic addiction"
+    },
+    "59": {
+        "word": "Medley",
+        "definition": " A diverse assortment or mixture",
+        "example": "The businessman showed Ashley a medley of pleasure instruments"
+    },
+    "60": {
+        "word": "Halcyon",
+        "definition": "Marked with tranquility, contentment and happiness",
+        "example": "Japanese backyards present you with a halcyon setting for relaxation"
+    },
+    "61": {
+        "word": "Perjury",
+        "definition": "Act of going against one's oath",
+        "example": "Perjury is trite in No Nut November challenges, most people don't have the fortitude for it"
+    },
+    "62": {
+        "word": "Desuetude",
+        "definition": "State of disuse and being rundown",
+        "example": "Once a fire broke out and killed 20 people in the building, no one has rented out a flat in the building, look at the desuetude"
+    },
+    "63": {
+        "word": "Forbearance",
+        "definition": "State of tolerant and being self-restrained",
+        "example": "No nut november is all about forbearance and fortitude"
+    },
+    "64": {
+        "word": "Treacherous",
+        "definition": "Betrayal or deceptive",
+        "example": "Being a treacherous man in the army sounds like a good way to die on the battlefield"
+    },
+    "65": {
+        "word": "Fractious",
+        "definition": "Being very stubborn",
+        "example": "I know far too many people that are fractious, it's a breath of fresh air to meet someone that doesn't take offense to my words"
+    },
+    "66": {
+        "word": "Peerless",
+        "definition": "Having no match to another; distinct",
+        "example": "The Wandering Inn is a peerless novel, yet it is a pity that it is not well known"
+    },
+    "67": {
+        "word": "Objurgate",
+        "definition": "To express a strong disapproval of something",
+        "example": "Listen officer, I objurgate child trafficking too, why are you arresting me?\n"
+    },
+    "68": {
+        "word": "Recrudesce",
+        "definition": "To happen again or breat out",
+        "example": "Even after the murderer is caught, people are afraid of it recrudescing"
+    },
+    "69": {
+        "word": "Philistine",
+        "definition": "Having a cruel disregard or dismay to arts or artistic things",
+        "example": "Showing that philistine man your artwork was the one way to ruin your cherubic day and you managed to do it"
+    },
+    "70": {
+        "word": "Frailty",
+        "definition": "A fault due to weakness of moral character",
+        "example": "Netorare is a genre that is filled with the frailty of the spouse"
+    },
+    "71": {
+        "word": "Brusque",
+        "definition": "Blunt in manner or speech; being abrupt or rude",
+        "example": "Most call me a brusque man, but I really just don't like beating around the bush"
+    },
+    "72": {
+        "word": "Intractable",
+        "definition": "Uncontrollable",
+        "example": "Once you piss off an intractable man, it's hard to stop his harangue"
+    },
+    "73": {
+        "word": "Tenacious",
+        "definition": "Holding tight",
+        "example": "A tenacious mind allows one to solve even the most ridiculous of puzzles"
+    },
+    "74": {
+        "word": "Succinct",
+        "definition": "Clear and sensible",
+        "example": "The ones who shine during a debate are those that are succinct in their responses"
+    },
+    "75": {
+        "word": "Perfunctory",
+        "definition": "Lacking interest",
+        "example": "Greeting guests in a perfunctory task, and if I could, I'd do away with it in a heartbeat"
+    },
+    "76": {
+        "word": "Inveterate",
+        "definition": "Firmly established or rooted; habitual",
+        "example": "Browsing through instagram is an inveterate habit that I would like to get rid of"
+    },
+    "77": {
+        "word": "Recourse",
+        "definition": "A source of help in a difficult situation",
+        "example": "After ordering far too much for the dine-in, Jack's only recourse to not waste food was to pack it up for a takeaway"
+    },
+    "78": {
+        "word": "Perfidious",
+        "definition": "The act of betraying someone or something",
+        "example": "Once I dashed into site, the team's perfidy deeply wounded me as they did not rush into site"
+    },
+    "79": {
+        "word": "Atrophy",
+        "definition": "A wasting away or progressive decline; reduction in quality",
+        "example": "The tempetuous winds caused the freshly painted houses to fall into atrophy"
+    },
+    "80": {
+        "word": "Ostensible",
+        "definition": "Intended for display; open for view",
+        "example": "Window shopping isn't allowed? I thought it was an ostensible shop"
+    },
+    "81": {
+        "word": "Unearth",
+        "definition": "Discover and bring to light",
+        "example": "Once the catacombs had fallen, the mysterious of the city's haunted sewer system were unearthed"
+    },
+    "82": {
+        "word": "Irrevocable",
+        "definition": "Final and unalterable",
+        "example": "The judge has made their irrevocable decision, there is no use pleading now"
+    },
+    "83": {
+        "word": "Contrite",
+        "definition": "Feeling or showing sorrow and remorse for a sin",
+        "example": "Most people who confess in church are contrite with the sins they have committed"
+    },
+    "84": {
+        "word": "Ineptitude",
+        "definition": "The quality of being incompetent",
+        "example": "That guy was as inept as one can get with his mediocre magic tricks"
+    },
+    "85": {
+        "word": "Pertain",
+        "definition": "Belong as a part",
+        "example": "This passage pertains to the Book of the Kamasutra!\n"
+    },
+    "86": {
+        "word": "Expiation",
+        "definition": "The act or process of atonement",
+        "example": "One goes from being contrite to expiating for the sins they have committed"
+    },
+    "87": {
+        "word": "Rebuff",
+        "definition": "Snub",
+        "example": "He rebuffed me despite providing perfectly reasonable logic"
+    },
+    "88": {
+        "word": "Fidelity",
+        "definition": "Loyalty; accuracy",
+        "example": "Despite expressing my fidelity, the group's perfidy took me to tears"
+    },
+    "89": {
+        "word": "Stigma",
+        "definition": "Mark of shame; disgrace",
+        "example": "There is a stigma attached to White Gnolls from the Wandering Inn"
+    },
+    "90": {
+        "word": "Extinguish",
+        "definition": "End something",
+        "example": "The reign of Alexander the Great was extinguished by Malaria or Typhoid"
+    },
+    "91": {
+        "word": "Bolster",
+        "definition": "Support or reinforce",
+        "example": "One expects camaraderie from their friends and a bolster to live a good life, why did I end up with valorant and rank pushing?\n"
+    },
+    "92": {
+        "word": "Taut",
+        "definition": "Tightly stretched",
+        "example": "The line for tight rope walking is always taut, it'd be a disaster otherwise"
+    },
+    "93": {
+        "word": "Loll",
+        "definition": "Rest or laze around",
+        "example": "The mayor lolled on his extravagant sofa all day today"
+    },
+    "94": {
+        "word": "Diaphanous",
+        "definition": "Transparent; gauzy",
+        "example": "The window was oddly dusty, you'd expect one here to be diaphanous and near invisible"
+    },
+    "95": {
+        "word": "Abstruse",
+        "definition": "Obscure",
+        "example": "I successfully managed to abstruse my escape route to get rid of the officers, let's go snort some coke"
+    },
+    "96": {
+        "word": "Predilection",
+        "definition": "An established preference for something",
+        "example": "Most people have a predilection towards chocolate when you compare it with pista"
+    },
+    "97": {
+        "word": "Writ",
+        "definition": "Written order",
+        "example": "This writ right here orders you to court, young man, don't you walk away from me!\n"
+    },
+    "98": {
+        "word": "Jabber",
+        "definition": "Talk excitedly",
+        "example": "You could call it loquacious or jabbering, but all I find it is plain annoying"
+    },
+    "99": {
+        "word": "Scabbard",
+        "definition": "Sheath for a blade",
+        "example": "I can see a scabbard here but no blade in it, that's weird"
+    },
+    "100": {
+        "word": "Vigilant",
+        "definition": "Noticing the happenings of the surroundings",
+        "example": "He's a vigilant officer and managed to stop two sexual assaults from taking place"
+    },
+    "101": {
+        "word": "Indigence",
+        "definition": "Poverty",
+        "example": "I've lived in indigence before and that's why I don't want my children to go through this ordeal at all"
+    },
+    "102": {
+        "word": "Commuter",
+        "definition": "A person who travels regularly",
+        "example": "One expects commuters to commute to office regularly but post covid? No one wants to even go to the office anymore"
+    },
+    "103": {
+        "word": "Fluster",
+        "definition": "Make nervous or confused",
+        "example": "Okari-chan became flustered when she babbled unintelligible speech in nervousness"
+    },
+    "104": {
+        "word": "Propinquity",
+        "definition": "Nearness of blood; kinship",
+        "example": "The propinquity that one speaks of in stories is seldom visible in real life"
+    },
+    "105": {
+        "word": "Frantic",
+        "definition": "Widely excited with joy",
+        "example": "He made frantic arrangements when he realized that his friends were going to be coming over"
+    },
+    "106": {
+        "word": "Eulogy",
+        "definition": "Formal; parise; panegyric",
+        "example": "The minister delivered a eulogy for Mukesh, how admirable"
+    },
+    "107": {
+        "word": "Coerce",
+        "definition": "Compel to make obedient",
+        "example": "Some people are really good at coercing you into investing into their product"
+    },
+    "108": {
+        "word": "Recluse",
+        "definition": "One who avoids people",
+        "example": "Max is a genius, but he is reclusive and as such you don't see him all that much"
+    },
+    "109": {
+        "word": "lethargic",
+        "definition": "lacking energy",
+        "example": "It's common to be lethargic the second day after going to the gym, but trust me, the third day is worse"
+    },
+    "110": {
+        "word": "obdurate",
+        "definition": "stubbornly refusing to change one's opinion",
+        "example": "Sometimes, I really wonder whether I'm wasting my time arguing about the better sex with some obdurate fools"
+    },
+    "111": {
+        "word": "philanthropic",
+        "definition": "seeking to promote the welfare of others",
+        "example": "A lot of millionaires are philanthropic, they say it's because they care about the world, but I'm pretty sure it's just to cover up the fact that they don't know what to do with it"
+    },
+    "112": {
+        "word": "waver",
+        "definition": "to go back and forth between choices",
+        "example": "Voting is something that I don't think I'll ever waver on, the votes are manipulated anyway, so it doesn't really matter"
+    },
+    "113": {
+        "word": "bolster",
+        "definition": "to support or strengthen",
+        "example": "Boaster's IGL skills bolsters the teamplay, but what can one really do against the demon that is TenZ"
+    },
+    "114": {
+        "word": "dissonance",
+        "definition": "a lack of harmony or agreement",
+        "example": "It's fun to take part in hackathons until the team faces the issue of dissonance, arguments pick up and everything falls apart quickly"
+    },
+    "115": {
+        "word": "garrulous",
+        "definition": "excessively talkative",
+        "example": "Gary is a garrulous man, one could also call him loquacious too"
+    },
+    "116": {
+        "word": "malleable",
+        "definition": "easily influenced; pliable",
+        "example": "I said the child was malleable, that meant that you could mold him to be better, not hit him with a hammer!\n"
+    },
+    "117": {
+        "word": "ostentation",
+        "definition": "excessive display of wealth",
+        "example": "You'd notice that the rich folk are always up for ostentation but the extremely rich folk don't display their wealth at all"
+    },
+    "118": {
+        "word": "prevaricate",
+        "definition": "avoid telling the truth by not directly answering a question",
+        "example": "I know a lot of people that prevaricate because they're scared of what might be if people know what they're upto"
+    },
+    "119": {
+        "word": "yoke",
+        "definition": "bond; tie; subjection",
+        "example": "The yoke of religion unites quite a few, but somehow it just seems like the formation of a cult to me"
+    },
+    "120": {
+        "word": "xenophobia",
+        "definition": "Intense or irrational dislike of people from other countries",
+        "example": "I doubt that people with xenophobia are well-liked in the public view nowadays, racial supremacy is a dead concept, and the ones who follow it now are idiots"
+    },
+    "121": {
+        "word": "winnow",
+        "definition": "sift out, filter out",
+        "example": "Some universites tend to winnow their applications based on grade, gender, and the place they hail from"
+    },
+    "122": {
+        "word": "welter",
+        "definition": "confusion, jumble, tangle",
+        "example": "That entire discussion was welter, it went completely over my head"
+    },
+    "123": {
+        "word": "vociferous",
+        "definition": "blatant, clamorous, noisy",
+        "example": "I think I have a headache from those vociferous arguments coming from next door, I hope the couple just get a divorce and move on"
+    },
+    "124": {
+        "word": "vitriol",
+        "definition": "cruel and bitter criticism",
+        "example": "Some people are so filled with vitriol that they vitiate those around them too"
+    },
+    "125": {
+        "word": "vitiate",
+        "definition": "destroy or impair",
+        "example": "One tends to be a lot more sadistic once they are faced with scenarios that vitiate their mindset"
+    },
+    "126": {
+        "word": "virulent",
+        "definition": "toxic, deadly, destructive",
+        "example": "Imagine having another pandemic, the entire stock market is going to plummet and shopkeepers would become virulent with frustation"
+    },
+    "127": {
+        "word": "umbrage",
+        "definition": "offense or annoyance",
+        "example": "I am so filled with anger after the umbrage that John hit me with"
+    },
+    "128": {
+        "word": "tyro",
+        "definition": "a beginner or novice",
+        "example": "Everyone is a tyro at some point, even the greatest have had to have simple beginnings"
+    },
+    "129": {
+        "word": "toady",
+        "definition": "be servile towards, grovel to",
+        "example": "I hate Smith, he's always ready to toady up to the boss"
+    },
+    "130": {
+        "word": "Inculcate",
+        "definition": "Instill an attitude, idea or habit",
+        "example": "Inculcating the habit of exercise in a schedule is a good practice"
+    },
+    "131": {
+        "word": "Indolence",
+        "definition": "Avoidance of activity or exertion",
+        "example": "That indolent fat man ruined my appetite with his gross method of consumption"
+    },
+    "132": {
+        "word": "Irascible",
+        "definition": "Having or showing a tendency to be easily angered",
+        "example": "Sometimes, it's better to shut your mouth after someone's had a bad day, they're definitely irascible and prone to taking it out on you"
+    },
+    "133": {
+        "word": "Hapless",
+        "definition": "Unfortunate",
+        "example": "Sometimes I really wonder if I'm hapless or just a fool"
+    },
+    "134": {
+        "word": "Grouse",
+        "definition": "Complain pettily",
+        "example": "Stop grousing for no reason, just give me a bit and we'll be off"
+    },
+    "135": {
+        "word": "anachronism",
+        "definition": "Something old-fashioned",
+        "example": "I have a friend who method of thinking is anachronistic\n"
+    },
+    "136": {
+        "word": "ameliorate",
+        "definition": "to improve or mitigate a situation",
+        "example": "Attempt o ameliorate all you wil, but the teacher is not going to award you any more marks"
+    },
+    "137": {
+        "word": "contentious",
+        "definition": "Involding conflict",
+        "example": "William has a contentious mouth that is sure to get him into trouble at some point"
+    },
+    "138": {
+        "word": "cosmopolitan",
+        "definition": "Sophisticated",
+        "example": "Maganizes and articles contain cosmopolitan trends of the today"
+    },
+    "139": {
+        "word": "Craven",
+        "definition": "Cowardly to the point of being shameful",
+        "example": "He lived a craven life, seeking help from others and serving as their simp while they beg for help"
+    }
+}
