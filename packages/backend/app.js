@@ -1,10 +1,15 @@
 // Importing Express functionality
 const express = require("express");
+const cors = require("cors");
+
+// Routers
 const cardRouter = require("./routes/cards");
 
 // Create an app object
 const app = express();
 const port = 8000;
+app.use(cors());
+app.use(express.json());
 
 // Defining a Hello World route
 // to test the application
