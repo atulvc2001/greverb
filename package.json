@@ -12,7 +12,7 @@
     "server-dev": "yarn workspace @greverb/backend dev"
   },
   "engines": {
-    "node": "18.3.0"
+    "node": "18.8.0"
   },
   "dependencies": {
     "concurrently": "^7.3.0"

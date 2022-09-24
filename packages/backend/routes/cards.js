@@ -4,7 +4,8 @@ const {
   getAdiCards,
 //  getSidCards,
   getSwadeepCards,
-  getOrangeCards
+  getOrangeCards,
+  getGregmatCards
 } = require("../controllers/cardController");
 
 // Importing the router component
@@ -22,6 +23,7 @@ router.get("/swadeep", getSwadeepCards);
 // Get cards from a colored deck
 // router.get("/purple", getPurpleCards);
 router.get("/orange", getOrangeCards);
+router.get("/gregmat", getGregmatCards);
 
 // Export a router
 module.exports = router;

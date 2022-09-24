@@ -1,6 +1,7 @@
 const adiData = require("../data/adi.json");
 const swadeepData = require("../data/swa.json");
 const orangeData = require("../data/orange.json");
+const gregmatData = require("../data/gregmat.json");
 
 function retrieval(cardType) {
   // Identification of cardType
@@ -10,6 +11,8 @@ function retrieval(cardType) {
 //    data = sidData;
   } else if (cardType === "swadeep") {
     data = swadeepData;
+  } else if (cardType === "gregmat") {
+    data = gregmatData;
   } else {
     data = orangeData;
   }
@@ -49,6 +52,16 @@ exports.getSwadeepCards = (req, res) => {
 // Get Orange's Cards => /api/v1/cards/orange
 exports.getOrangeCards = (req, res) => {
   let {word, def, example} = retrieval('orange');
+  res.status(200).json({
+    word: word,
+    defition: def,
+    example: example
+  });
+};
+
+// Get Gregmat's Cards => /api/v1/cards/gregmat
+exports.getGregmatCards = (req, res) => {
+  let {word, def, example} = retrieval('gregmat');
   res.status(200).json({
     word: word,
     defition: def,
