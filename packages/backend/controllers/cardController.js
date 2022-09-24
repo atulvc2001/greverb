@@ -64,7 +64,7 @@ exports.getGregmatCards = (req, res) => {
   let {word, def, example} = retrieval('gregmat');
   res.status(200).json({
     word: word,
-    defition: def,
+    definition: def,
     example: example
   });
 };
