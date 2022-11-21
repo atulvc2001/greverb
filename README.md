@@ -1,21 +1,21 @@
 <div align="center">
 
-## GreVerb
+## The Offensive GRE
 
-The `greverb` that seeks to provide you with an interface which allows 
-you to test your might against GRE Vocabulary. This is a WIP, but there's 
-high hopes for the future.
+Have you ever thought about memorizing the GRE vocabulary, but all you 
+could think about was tearing those flashcards into tiny bits that 
+wouldn't bother you throughout the day with dry AF examples?
 
-## Task List
+Well, we did too. The GRE is a pretty important exam and is essentially
+a gatekeeper to education that one must surmount to get further in life. 
+Learning the GRE vocabulary is taxing and tiring when you flip through
+those ordinary flashcards, and you can feel your brain going dull at times.
+However, and this is a big thing, it doesn't have to be as banal and 
+insipid as it is. 
 
-There are quite the few features that the current model of the `greverb`
-lack, some of the features that we're currently considering and are vital
-towards the development of the project are,
-
-- [ ] Implementation of a GRE Quizzing Mechanism.
-- [ ] Set up of Custom Card Quizzing Functionality.
-- [ ] Adding in the cards in the form of JSON data.
-- [ ] Designing a front-end for the application.
+This is where the Offensive GRE comes into play. We have terrible examples
+that borderline suck, but at least they wouldn't bore you to death. Give it
+a shot!
 
 ## Contributing
 
@@ -40,4 +40,4 @@ The format of the data that we'll be needing is as follows,
 This project is under the MIT License and is available and free for use.
 
 ---
-<p align="right"><i>team greverb</i></p>
+<p align="right"><i>team offensive-gre</i></p>
